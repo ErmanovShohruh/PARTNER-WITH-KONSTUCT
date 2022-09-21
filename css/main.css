@@ -1,0 +1,469 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+   
+}
+
+
+.doc{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 1200px;
+    height: 769px;
+    background: url("../img/bg.png") no-repeat center 
+}
+
+.header__title{
+    text-align: center;
+    color: white;
+    padding: 41.6px 0 0;
+    
+}
+.skrol2{
+    text-align: center;
+}
+
+.skrol{
+  text-align: center;
+  padding:   0  0  71px;
+}
+a{
+    text-decoration: none;
+    
+}
+h1{
+    color: white;
+}
+.header__title2{
+    font-size: 60px;
+    line-height: 70px;
+}
+.skrol2 a p{
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+}
+
+.skrol a{
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+  
+    
+    
+
+}
+h2{
+    font-weight: 700;
+    font-size: 25px;
+}
+.cards{
+    height: 65px;
+    background: white;
+    border: 1px solid #E6E6E6;
+   
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.logos{
+        padding: 25px 0;
+        font-weight: 700;
+font-size: 12px;
+       
+        
+ 
+}
+.logo{
+    padding: 0 25px;
+    color: #48555B;
+    font-weight: 700;
+font-size: 12px;
+}
+.card h3{
+    padding: 25px 0;
+    color: #48555B;
+}
+.logo1{
+    padding: 0 10px;
+    color: #00A4E5;
+    font-weight: 700;
+    font-size: 12px;
+}
+.titles{
+    text-align: center;
+    padding: 57px 0; 
+    color: #48555B;
+}
+.boss{
+    display: flex;
+    justify-content: space-around;
+}
+.bos{
+    width: 500px;
+    
+}
+.bos h4{
+    padding: 0 0 30px;
+    color:  #48555B;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+}
+.bos2{
+    background-image: url("../img/Bitmap.png");
+    width: 130px;
+    height: 200px;
+   
+}
+.bos2 h3{
+    color: white;
+    padding: 10px 10px 10px ;
+    width: 50px;
+    font-weight: 800;
+font-size: 24px;
+}
+.beg{
+    display: flex;
+    
+}
+.bos3{
+    background-image: url("../img/Bitmap\ \(1\).png");
+    width: 130px;
+    height: 200px;
+    margin: 0 20px;
+}
+.bos3 h3{
+    color: white;
+    padding: 10px 10px 10px ;
+    width: 50px;
+    font-weight: 800;
+    font-size: 24px;
+    
+}
+.bos4{
+    background-image: url("../img/Bitmap\ \(2\).png");
+    width: 130px;
+    height: 200px;
+    margin: 0 1px;
+}
+.bos4 h3{
+    color: white;
+    padding: 10px 10px 10px ;
+    width: 50px;
+    font-weight: 800;
+    font-size: 24px;
+}
+.best{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 60px;
+   
+
+}
+.bes{
+    display: flex;
+   
+
+   
+
+}
+.bes p{
+    width: 405.4px;
+    height: 38px;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 8px 40px;
+}
+.best h3{
+    padding: 12px 0;
+    font-weight: 700;
+    font-size: 20px;
+    color: #48555B;
+}
+.bes1{
+    text-align: center;
+    margin: 0 20px;
+    padding:0  0 5px;
+   
+}
+.bed{
+      text-align: center;
+      padding: 8px 30px;
+      background-color: #00A4E5;
+      width: 150px;
+      height: 40px;
+}
+.bed a h4{
+    font-weight: 700;
+    font-size: 15px;
+    padding: 10px 0;
+    color: white;
+    transition: 1s;
+
+}
+.bed a h4:hover{
+    color: black;
+}
+.icon{
+    display: flex;
+    
+}
+.icons{
+    width: 250px;
+    height: 270px;
+    border: 2px solid #E6E6E6;
+    padding: 30px;
+    margin: 0 55px;
+}
+    
+.icons img{
+    width: 65.62px;
+    height: 75px;
+}
+.icons h4{
+    padding: 10px 0;
+    width: 250px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #48555B;
+}
+.icons p{
+    
+    width: 250px;
+height: 92px;
+font-weight: 400;
+font-size: 13px;
+color: #48555B;
+    
+}
+.icons1{
+    width: 250px;
+    height: 270px;
+    border: 2px solid #E6E6E6;
+    padding: 30px;
+    margin: 0 20px;
+}
+.icons1 h4{
+    padding: 10px 0;
+    width: 250px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #48555B;
+}
+.icons1 p{
+    width: 250px;
+    height: 92px;
+    font-weight: 400;
+    font-size: 13px;
+    color: #48555B;
+} 
+.icons2{
+    width: 250px;
+    height: 270px;
+    border: 2px solid #E6E6E6;
+    padding: 30px;
+    margin: 0 40px;
+}
+.icons2 h4{
+    padding: 10px 0;
+    width: 250px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #48555B;
+}
+.icons2 p{
+    width: 250px;
+    height: 92px;
+    font-weight: 400;
+    font-size: 13px;
+    color: #48555B;
+}
+.becround{
+    background-image: url("../img/photo_2022-07-14_16-21-19.jpg");
+    height: 420px;
+    padding: 10px 0;
+  
+    
+}
+.becround h2{
+text-align: center;
+
+    
+}
+.leg{
+    background: white;
+    height: 100px;
+}
+.dec h2{
+    padding: 0 400px;
+    color: #48555B;
+    font-weight: 700;
+    font-size: 40px;
+}
+.bec{
+    text-align: center;
+    padding: 8px 30px;
+    background-color: #00A4E5;
+    width: 150px;
+    height: 40px;
+    margin: 40px 500px;
+    
+}
+.bec a h4{
+    padding: 10px 0;
+    color: #fff;
+    transition: .5s;
+}
+.bec a h4:hover{
+    color: black;
+}
+.footer__email{
+    display: flex;
+    justify-content: center;
+    padding: 35px 0;
+    background-color: black;
+}
+.footer__email h2{
+    color: #fff;
+    padding: 0 100px;
+    font-weight: 700;
+    font-size: 30px;
+}
+.footer__email-button{
+  padding: 5px 0;
+  height: 50px;
+}
+.email{
+    height: 40px;
+    width: 250px;
+}
+.footer__email-button{
+    display: flex;
+}
+.get{
+    text-align: center;
+    padding: 8px 30px;
+    background-color: #00A4E5;
+    width: 150px;
+    height: 29px;
+   
+}
+.get a h3{
+    color: #fff;
+    padding: 5px 0;
+    font-weight: 700;
+    font-size: 20px;
+    transition: .5s;
+}
+
+.notepad{
+    display: flex;
+    background-color: black;
+    
+    height: 300px;
+}
+
+.notepad1{
+    margin: 0 20px;
+    padding: 40px;
+    color: #fff;
+    width: 250px;
+    height: 148px;
+}
+.notepad1 h4{
+    padding: 10px 0;
+    font-weight: 400;
+    font-size: 15px;
+}
+.notepad1 h2{
+    padding: 10px 0;
+    font-weight: 400;
+    font-size: 30px;
+}
+.notepad2{
+    margin: 0 20px;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+    padding: 40px;
+    color: #fff;
+    width: 100px;
+    height: 148px;
+}
+.notepad a{
+    color: #fff;
+
+}
+.notepad3{
+    margin: 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 40px;
+    color: #fff;
+    width: 250px;
+    height: 100px;
+}
+.notepad4{
+    margin: 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 40px;
+    color: #fff;
+    width: 250px;
+    height: 100px;
+}
+.notepad5{
+    margin: 0 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 40px;
+    color: #fff;
+    width: 200px;
+    height: 100px;
+}
+
+.notepad5 a h4{
+    padding: 10px 0;
+}
+.notepad5  p{
+    padding: 10px 0;
+}
+.notepad5 a{
+    padding: 10px 0;
+}
+.book{
+    background-color: black;
+    text-align: center;
+    padding: 30px 0;
+}
+.book h4{
+    color: #fff;
+    font-weight: 400;
+  font-size: 15px;
+}
+.get a h3:hover{
+    color: black;
+}
+
+
+
+
+
+
+
+
